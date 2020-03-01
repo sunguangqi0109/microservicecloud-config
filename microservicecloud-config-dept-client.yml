@@ -51,7 +51,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver
     url: jdbc:mysql://192.168.88.246:3306/cloudDB02
     username: root
-    password: 123456
+    password: rootroot
     dbcp2:
       min-idle: 5         #最小连接数
       initial-size: 5    #初始化连接数
